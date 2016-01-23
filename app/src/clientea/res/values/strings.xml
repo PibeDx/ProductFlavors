@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App.ClienteA</string>
+    <string name="url">www.clientea.com/servicesProduccion</string>
+
+</resources>

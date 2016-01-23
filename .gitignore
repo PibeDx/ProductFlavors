@@ -1,0 +1,13 @@
+/.idea
+/.gradle
+/app/app-ClienteA-release.apk
+/app/build
+/app/libs
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures

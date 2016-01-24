@@ -52,3 +52,6 @@ multiDexEnabled = true
 
 
 ![Alt text](https://raw.githubusercontent.com/mzegarras/ProductFlavors/master/1_AppsIcon.png "Optional Title")
+![Alt text](/master/ProductFlavors/2_AndroidStudio.png "Optional Title")
+
+

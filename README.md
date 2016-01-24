@@ -47,3 +47,8 @@ versionName "1.0"
 multiDexEnabled = true
 }
 }
+
+
+
+
+![Alt text](https://raw.githubusercontent.com/mzegarras/ProductFlavors/master/1_AppsIcon.png "Optional Title")
